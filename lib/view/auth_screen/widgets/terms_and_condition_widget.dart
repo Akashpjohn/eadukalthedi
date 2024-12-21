@@ -48,6 +48,7 @@ class TermsAndConditionsWidget extends StatelessWidget {
                   },
               ),
               const TextSpan(text: "."),
+              //fake comit
             ],
           ),
         ),
